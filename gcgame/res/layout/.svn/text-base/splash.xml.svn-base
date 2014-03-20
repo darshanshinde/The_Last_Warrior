@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:id="@+id/LinearLayout01"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:gravity="center" android:background="@drawable/gcgame_graphics">
+	<TextView android:id="@+id/TextView01" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:textStyle="bold|italic"
+		android:textSize="40sp" 
+		android:text="@string/warrior" 
+		android:textColor="#ff0" 
+		android:typeface="serif" 
+		android:background="@drawable/rect" android:includeFontPadding="true"></TextView>
+</LinearLayout>

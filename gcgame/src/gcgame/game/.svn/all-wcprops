@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/84/gcgame/src/gcgame/game
+END
+CPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/gcgame/src/gcgame/game/CPlayer.java
+END
+CEntNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/73/gcgame/src/gcgame/game/CEntNode.java
+END
+CXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/63/gcgame/src/gcgame/game/CXML.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/gcgame/src/gcgame/game/Menu.java
+END
+SplashScreenActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/83/gcgame/src/gcgame/game/SplashScreenActivity.java
+END
+Userdata.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/gcgame/src/gcgame/game/Userdata.java
+END
+CMonsterLiz.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/gcgame/src/gcgame/game/CMonsterLiz.java
+END
+CBaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/gcgame/src/gcgame/game/CBaseEntity.java
+END
+CEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/76/gcgame/src/gcgame/game/CEntityManager.java
+END
+CScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/65/gcgame/src/gcgame/game/CScore.java
+END
+CMonsterMrBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/75/gcgame/src/gcgame/game/CMonsterMrBean.java
+END
+Load.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/66/gcgame/src/gcgame/game/Load.java
+END
+fireball.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/gcgame/src/gcgame/game/fireball.java
+END
+gcgame.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/gcgame/src/gcgame/game/gcgame.java
+END
+BaseExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/gcgame/src/gcgame/game/BaseExample.java
+END
+Gauge.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/gcgame/src/gcgame/game/Gauge.java
+END
+CMonster.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/gcgame/src/gcgame/game/CMonster.java
+END
+BdMonster.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/84/gcgame/src/gcgame/game/BdMonster.java
+END

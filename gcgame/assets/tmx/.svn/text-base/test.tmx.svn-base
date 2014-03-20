@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Desert" tilewidth="32" tileheight="32" spacing="3" margin="2">
+  <image source="gfx/desert_tiled.png" width="281" height="211"/>
+  <tile id="5">
+   <properties>
+    <property name="monster" value="1"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="monster" value="2"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="monster" value="3"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="solid" value="true"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="cactus" value="true"/>
+    <property name="solid" value="true"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="solid" value="true"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="solid" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2XTQ/CIAyGiYdN583oTbfFw+LJ+P9/nVtiE9KUsZYWSNzhDRC+Hl6ghM4511WuYVZfoXy+idGvIfJNpN1WvbzU53sX8OfpCTNiPqjDPmqeI4pvIPgs5pbyUf7h/Y3pOuuyopuQb+v9iLU5//YhpFMGvtBdW+rvsw4rekRYrP2TnrWGMQ+oVViXhQ/cfpLYWsu6/oWvjdRTfDXsa6p/1Lqlb0iu/dXiKxFfpHNpvfNcvgmlfaBcmg/yuAwp9PmgsXBZuh4NL4Bv0biRk2oDY1jwwfgjmhfzgkZHs2HGXHcq5zlNvfOaouJ8qfiX079cb7SGf5x/ealzzPXDgi8lfqWKy5fb751Pjy/0J6iFz8q/ozFfCe18/8FXs74a/sE5ABkAAA==
+  </data>
+ </layer>
+</map>
